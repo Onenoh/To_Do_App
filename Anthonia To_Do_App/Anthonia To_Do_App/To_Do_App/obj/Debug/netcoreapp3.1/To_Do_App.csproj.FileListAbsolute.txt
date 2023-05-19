@@ -1,0 +1,14 @@
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\obj\Debug\netcoreapp3.1\To_Do_App.csproj.AssemblyReference.cache
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\obj\Debug\netcoreapp3.1\To_Do_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\obj\Debug\netcoreapp3.1\To_Do_App.AssemblyInfoInputs.cache
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\obj\Debug\netcoreapp3.1\To_Do_App.AssemblyInfo.cs
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\obj\Debug\netcoreapp3.1\To_Do_App.csproj.CoreCompileInputs.cache
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\bin\Debug\netcoreapp3.1\To_Do_App.exe
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\bin\Debug\netcoreapp3.1\To_Do_App.deps.json
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\bin\Debug\netcoreapp3.1\To_Do_App.runtimeconfig.json
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\bin\Debug\netcoreapp3.1\To_Do_App.runtimeconfig.dev.json
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\bin\Debug\netcoreapp3.1\To_Do_App.dll
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\bin\Debug\netcoreapp3.1\To_Do_App.pdb
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\obj\Debug\netcoreapp3.1\To_Do_App.dll
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\obj\Debug\netcoreapp3.1\To_Do_App.pdb
+C:\Users\Okwe.A\Desktop\To_Do_App\To_Do_App\obj\Debug\netcoreapp3.1\To_Do_App.genruntimeconfig.cache
